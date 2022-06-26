@@ -1,0 +1,87 @@
+.div{
+    background-color: brown;
+    color:red;
+    font-size: 30px
+    ;
+}
+.div2{
+    background-color: black;
+    color: blue;
+    font-size: 40px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.div3{
+    background-color: aquamarine;
+    color: bisque;
+    font-size: 20px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+.div3:hover{
+    background-color: rgb(0, 0, 0);
+    color: bisque;
+    font-size: 20px;
+    margin-top: 40px
+}
+
+.div2:hover{
+    background-color: brown;
+    color: blueviolet;
+
+}
+
+
+
+
+.parent{
+    background-color: black;
+    display: flex;
+}
+.parent .c1{
+    background-color: aqua;
+    padding: 50px;
+    border-radius: 50px;
+    content: "nnnn";
+}
+
+.parent .c2{
+    background-color: aquamarine;
+    padding: 50px;
+    border-radius: 50px;
+    content: "nnnnn";
+}
+.parent .c3{
+    background-color: bisque;
+    padding: 40px;
+    border-radius: 50px;
+    content: "nnnn";
+}
+.parent .c4{
+    background-color: blue;
+    padding: 40px;
+    border-radius: 50px;
+    content: "nnnn";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
